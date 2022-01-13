@@ -19,7 +19,6 @@ Na área administrativa (privada), o usuário pode: criar novas viagens, deletar
 - [x] Integração com API
 - [x] Formulário para candidatura da viagem, Criação de viagens
 - [x] responsividade para mobile
-- [ ] 
 
 ## ✒ To Do
 - [ ] Atualizar o React Router para versão 6.0
@@ -37,31 +36,25 @@ As seguintes ferramentas foram utilizadas na construção do projetos:
 
 ## 📥 Install 
 Faça um clone desse repositório e acesse o diretório.
-
 ```
 $ git clone https://github.com/gpazini/labe-x.git
 ```
-
 ```
 # Instalando as dependências
 $ npm install styled-components
 $ npm install axios
 $ npm install react-router-dom@5.3
 ```
-
 ```
 # Executanto aplicação
 $ npm run start
 
 ```
 
-## 📷 Project images
-- 💻 Versão Web / Browser
+## 📷 Project images - 💻 Version Web / 📱 Mobile
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86967864/145511023-e1ad5c85-736d-438e-9080-a39d9db5f6d3.png" width=70% >
 </p>
-
-- 📱 Responsive Version / Mobile
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86967864/145511118-9fd10994-3ccd-4ce6-902a-f3223318052a.png" width="200" >
   <img src="https://user-images.githubusercontent.com/86967864/145511174-34b21143-4b6c-4bb9-8e95-e09ac697e144.png" width="200"  >
@@ -69,9 +62,21 @@ $ npm run start
 </p>
 
 ## 📝 License
-- Em construção
+```
+Copyright [2021] [Guilherme Pazini]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
 ## 🦸 Executor
 Guilherme Pazini  • <a href="https://www.linkedin.com/in/guilhermepazini/">Linkedin</a>
-
-
