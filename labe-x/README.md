@@ -69,4 +69,3 @@ $ yarn start
 ## 🦸 Executor
 Guilherme Pazini  • <a href="https://www.linkedin.com/in/guilhermepazini/">Linkedin</a>
 
-
