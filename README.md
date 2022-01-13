@@ -25,6 +25,12 @@ Na área administrativa, o administrador, pode criar novas viagens, deletar as e
 - [x] trips/id (Detalhes da viagem, e os candidatos pendentes de aprovação e aprovados.
 - [x] admin/trips/create (Formulário de criação de viagens)
 
+## ✒ To Do
+- Atualizar o React Router para versão 6.0
+- Adicionar um campo para inserir fotos juntos com a viagens
+- Area do Usúario (cliente)
+- Carrinho de compra de viagens
+
 ## 🛠 Tech
 As seguintes ferramentas foram utilizadas na construção do projetos:
 + <a target="_blank" href="https://reactrouter.com/web/guides/quick-start">React Router</a>
