@@ -18,12 +18,14 @@ Na área administrativa (privada), o usuário pode: criar novas viagens, deletar
 - [x] Área Privada - necessário autenticação
 - [x] Integração com API
 - [x] Formulário para candidatura da viagem, Criação de viagens
+- [x] responsividade para mobile
+- [ ] 
 
 ## ✒ To Do
-- Atualizar o React Router para versão 6.0
-- Adicionar um campo para inserir fotos juntos com a viagens
-- Area do Usúario (cliente)
-- Carrinho de compra de viagens
+- [ ] Atualizar o React Router para versão 6.0
+- [ ]  Adicionar um campo para inserir fotos juntos com a viagens
+- [ ]  Area do Usúario (cliente)
+- [ ]  Carrinho de compra de viagens
 
 ## 🛠 Tech
 As seguintes ferramentas foram utilizadas na construção do projetos:
