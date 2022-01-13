@@ -54,8 +54,6 @@ $ yarn start
 
 ## 📷 Project images
 - 💻 Versão Web / Browser
-
-![image](https://user-images.githubusercontent.com/86967864/145510978-eba76429-6d66-4f06-9465-430a37cfaf60.png)
 ![image](https://user-images.githubusercontent.com/86967864/145511023-e1ad5c85-736d-438e-9080-a39d9db5f6d3.png)
 
 - 📱 Responsive Version / Mobile
