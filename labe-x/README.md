@@ -22,9 +22,9 @@ Na área administrativa (privada), o usuário pode: criar novas viagens, deletar
 
 ## ✒ To Do
 - [ ] Atualizar o React Router para versão 6.0
-- [ ]  Adicionar um campo para inserir fotos juntos com a viagens
-- [ ]  Area do Usúario (cliente)
-- [ ]  Carrinho de compra de viagens
+- [ ] Adicionar um campo para inserir fotos juntos com a viagens
+- [ ] Area do Usúario (cliente)
+- [ ] Carrinho de compra de viagens
 
 ## 🛠 Tech
 As seguintes ferramentas foram utilizadas na construção do projetos:
@@ -33,6 +33,7 @@ As seguintes ferramentas foram utilizadas na construção do projetos:
 + <a target="_blank" href="https://pt-br.reactjs.org/docs/hooks-intro.html">Hooks</a>
 + <a target="_blank" href="https://documenter.getpostman.com/view/9133542/TzCTZkQr#intro">LabeX API </a>
 + <a target="_blank" href="https://styled-components.com/">Styled-Components</a>
++ <a target="_blank" href="https://axios-http.com/docs/intro">Axios</a>
 
 ## 📥 Install 
 Faça um clone desse repositório e acesse o diretório.
