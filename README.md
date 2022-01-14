@@ -52,6 +52,10 @@ $ npm run start
 
 ```
 
+
+
+
+
 ## 📷 Project images - 💻 Version Web / 📱 Mobile
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86967864/145511023-e1ad5c85-736d-438e-9080-a39d9db5f6d3.png" width=70% >
@@ -61,6 +65,8 @@ $ npm run start
   <img src="https://user-images.githubusercontent.com/86967864/145511174-34b21143-4b6c-4bb9-8e95-e09ac697e144.png" width="200"  >
   <img src="https://user-images.githubusercontent.com/86967864/145511377-336e65c5-d96b-40f1-b306-4ffffd17dc5a.png" width="200"  >
 </p>
+
+
 
 ## 📝 License
 ```
